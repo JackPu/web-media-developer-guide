@@ -12,7 +12,7 @@ Web media has played an import role in our life. We watch videos on Youtube or N
 
 ## Video
 
-### Baic Video Element
+### Basic Video Element
 
 + [Video Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 + [Video Events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Media_events)

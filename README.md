@@ -7,7 +7,7 @@ The Guide of Being a Web Media Developer.
 
 ## Web Media
 
-Web media has played an import role in our life. We watch videos on Youtube or Netflix. And we listen music on spocify or QQMusic. The Web's ability to present, create, and manage audio, video, and other media has grown at an increasing pace. So I write this guide for all web devlopers who is interested in these ares.
+Web media has played an import role in our life. We watch videos on Youtube or Netflix. And we listen to music on Spotify or QQMusic. The Web's ability to present, create, and manage audio, video, and other media has grown at an increasing pace. So I write this guide for all web developers who is interested in these areas.
 
 
 ## Video

@@ -1,6 +1,6 @@
 # web-media-developer-guide
 
-The Guide of Being a web media devloper.
+The Guide of Being a Web Media Developer.
 
 <img src="./images/web-media.png">
 

@@ -10,6 +10,15 @@ The Guide of Being a Web Media Developer.
 Web media has played an import role in our life. We watch videos on Youtube or Netflix. And we listen to music on Spotify or QQMusic. The Web's ability to present, create, and manage audio, video, and other media has grown at an increasing pace. So I write this guide for all web developers who is interested in these areas.
 
 
++ [Video](#Video)
++ [Audio](#Audio)
++ [WebRTC](#WebRTC)
++ [WebXR](#WebXR)
++ [Blog](#Blog)
+
+
+
+
 ## Video
 
 ### Basic Video Element
@@ -35,6 +44,11 @@ Web media has played an import role in our life. We watch videos on Youtube or N
 + [hls.js](https://github.com/video-dev/hls.js)
 + [videojs](https://github.com/videojs)
 
+### Video Player
++ [shaka-player](https://github.com/google/shaka-player)  A Video Player from Google.
++ [chimee](https://github.com/Chimeejs/chimee) A Video Player from 75Team(Qihoo.org)
++ [xgplayer](https://github.com/bytedance/xgplayer) A Video Player from Bytedance
++ [plyr](https://github.com/sampotts/plyr) The most popular video player from freedom developer.
 
 ## Audio
 

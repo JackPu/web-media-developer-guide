@@ -88,14 +88,15 @@ Web media has played an import role in our life. We watch videos on Youtube or N
 + [argon.js](https://www.argonjs.io/)
 
 
-### Blog
+## Blog
 
 + [Netflix](https://medium.com/netflix-techblog?source=follow_footer--------------------------follow_footer-)
 + [Chrome Media Updates](https://www.google.com.hk/search?source=hp&ei=HZdfXZXUGoaxmAWn-42ACw&q=chrome+media+updates&oq=chrome+media+updates&gs_l=psy-ab.3..0i22i30.1515.6792..6968...3.0..0.530.8777.3-17j5j1......0....1..gws-wiz.....10..35i39j0i67j0j0i20i263j0i10i67.NFDWcsgWQfM&ved=0ahUKEwjV1tO8vZjkAhWGGKYKHad9A7AQ4dUDCAU&uact=5)
 + [Google AR](https://github.com/google-ar)
++ [LensVR Blog](https://lensreality.com/lensvrblog/)
 + [Thundering Herd - Chris Pearce(work in  Mozilla)](https://blog.pearce.org.nz/)
 + [ivweb](https://ivweb.io/)
-+ [Video Tags](https://www.jackpu.com/tag/video/)
++ [Some common Web Video Articles](https://www.jackpu.com/tag/video/)
 
 ## 💐 Contribution
 

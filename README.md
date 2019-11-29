@@ -17,15 +17,14 @@ Web media has played an import role in our life. We watch videos on Youtube or N
 + [Blog](#Blog)
 
 
-
 ## Video
 
-### Basic Video Element
+### Basic Video API
 
 + [Video Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 + [Video Events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Media_events)
-+ [MSE](https://developer.mozilla.org/en-US/docs/Web/API/MediaSource)
-+ [EME](https://developer.mozilla.org/en-US/docs/Web/API/Encrypted_Media_Extensions_API)
++ [Media Source Extensions](https://developer.mozilla.org/en-US/docs/Web/API/MediaSource)
++ [Encrpted Media Extensions](https://developer.mozilla.org/en-US/docs/Web/API/Encrypted_Media_Extensions_API)
 
 ### Codec
 
@@ -97,6 +96,11 @@ Web media has played an import role in our life. We watch videos on Youtube or N
 + [Thundering Herd - Chris Pearce(work in  Mozilla)](https://blog.pearce.org.nz/)
 + [ivweb](https://ivweb.io/)
 + [Some common Web Video Articles](https://www.jackpu.com/tag/video/)
+
+
+## Web Video Quality Summary
+
+<img src="./images/video-streaming-quality.png">
 
 ## 💐 Contribution
 

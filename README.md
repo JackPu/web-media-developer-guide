@@ -102,6 +102,12 @@ Web media has played an import role in our life. We watch videos on Youtube or N
 
 <img src="./images/video-streaming-quality.png">
 
+## Encrypted Media Extensions
+
+1) How it works?
+
+<img src="./images/EME.png">
+
 ## 💐 Contribution
 
 + Open pull request with improvements

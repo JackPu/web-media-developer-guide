@@ -75,6 +75,7 @@ Web media has played an import role in our life. We watch videos on Youtube or N
 + [licode](https://github.com/lynckia/licode)
 + [SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC)
 + [⚡️ webtorrent](https://github.com/webtorrent/webtorrent)
++ [simple-peer](https://github.com/feross/simple-peer)  Simple WebRTC video, voice, and data channels
 
 
 ## WebXR
